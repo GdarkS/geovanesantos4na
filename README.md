@@ -1,5 +1,7 @@
 # README
 
+ Nome: Geovane
+ 
 ## Descrição do Projeto
 
 O projeto visa desenvolver uma **plataforma digital** que conecte donos de pets a prestadores de serviços de babá de pets. A ideia é criar um espaço onde os donos possam encontrar cuidadores qualificados para seus animais de estimação, enquanto os prestadores de serviço possam buscar oportunidades de trabalho freelance.
